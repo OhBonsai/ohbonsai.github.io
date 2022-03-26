@@ -10,3 +10,14 @@ Still can say love in a naive way!
 ```
 
 
+
+## requirements
+- site generator: hugo
+- deploy tool: gh-pages 
+
+## deploy
+```
+hugo -D
+gh-pages -d public
+```
+
