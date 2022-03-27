@@ -1,15 +1,23 @@
-var gh = require('gh-pages');
-
-
-exports.handler = async function (event) {
-  console.log(`Starting sync to gh-pages`);
-
-  gh.publish('public', {
-    repo: 'https://' + process.env.GH_TOKEN + '@github.com/OhBonsai/ohbonsai.github.io.git',
-    silent: true
-  }, ()=>{
-
-  });
-
-  console.log(`End sync to gh-pages`);
-};
+{
+    "name": "julito",
+    "version": "1.0.0",
+    "description": "julito's territory",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/OhBonsai/ohbonsai.github.io.git"
+    },
+    "author": "julito",
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/OhBonsai/ohbonsai.github.io/issues"
+    },
+    "homepage": "https://github.com/OhBonsai/ohbonsai.github.io#readme",
+    "devDependencies": {
+      "gh-pages": "^3.2.3"
+    }
+  }
+  
