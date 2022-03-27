@@ -1,17 +1,19 @@
 ---
 title: 搭建博客：语雀同步Github
 date: 2022-03-26T13:12:26+00:00
-updated_date: 2022-03-27T10:30:22+00:00
-image: https://cdn.nlark.com/yuque/0/2022/png/1780674/1648317858715-d21a9902-d7df-4f21-92c8-4f53bab1cf75.png
+updated_date: 2022-03-27T11:50:02+00:00
+image: https://cdn.nlark.com/yuque/__latex/146ac92b6071bbb19ade94ed5065f040.svg
 summary: 这是文章的summar
-word_count: 26
+word_count: 22
 ---
 
 > 写文章从未如此之爽，还不要钱
 
 <a name="FHPDB"></a>
 ## 
-终于搞定
+![](https://cdn.nlark.com/yuque/__latex/146ac92b6071bbb19ade94ed5065f040.svg#card=math&code=%5Csum_%7Bi%3D0%7D%5En%20i%5E2%20%3D%20%5Cfrac%7B%28n%5E2%2Bn%29%282n%2B1%29%7D%7B6%7D&id=kgOCE)
+
+
 <a name="WiMzS"></a>
 ## 效果
 <a name="FQ3Iw"></a>
